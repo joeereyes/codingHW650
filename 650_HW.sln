@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JOE650HW", "JOE650HW", "{AC04366D-EFF8-4E76-8CBC-C8FBAEBC4863}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "html", "html", "{5B7E34EE-2608-4A93-8D9E-0B434157DE1C}"
+	ProjectSection(SolutionItems) = preProject
+		650HW.html = 650HW.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{EDE0AE62-46C6-4F09-B2EB-59B1EA222F53}"
+	ProjectSection(SolutionItems) = preProject
+		650HW.css = 650HW.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{C6B11CC0-65C8-4AE9-98AF-5B20E4D59883}"
+	ProjectSection(SolutionItems) = preProject
+		650HWsc.js = 650HWsc.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5B7E34EE-2608-4A93-8D9E-0B434157DE1C} = {AC04366D-EFF8-4E76-8CBC-C8FBAEBC4863}
+		{EDE0AE62-46C6-4F09-B2EB-59B1EA222F53} = {AC04366D-EFF8-4E76-8CBC-C8FBAEBC4863}
+		{C6B11CC0-65C8-4AE9-98AF-5B20E4D59883} = {AC04366D-EFF8-4E76-8CBC-C8FBAEBC4863}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4682FE69-760D-41CF-A3F9-0884C8CD202F}
+	EndGlobalSection
+EndGlobal
